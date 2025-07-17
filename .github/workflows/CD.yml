@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-  build:
+  build: # 커밋하려구 주석 추가해볼게...
     runs-on: ubuntu-latest # Github Actions의 워크플로워 runner 환경
 
     steps:
